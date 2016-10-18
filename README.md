@@ -7,5 +7,5 @@ npm start
 yo react-webpack:component my/namespaced/components/name
 
 <p align="center">
-  <img src="https://github.com/lclaros/ReactJS-example/master/screenshots/app.png?raw=true" width="350"/>
+  <img src="https://raw.githubusercontent.com/lclaros/ReactJS-example/master/screenshots/app.png"/>
 </p>
