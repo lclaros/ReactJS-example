@@ -11,6 +11,7 @@ class AppComponent extends React.Component {
       <div className="index">
         <img src={yeomanImage} alt="Yeoman Generator" />
         <div className="notice">Please edit <code>src/components/Main.js</code> to get started!</div>
+        <div>This is a example to work with react js </div>
       </div>
     );
   }
