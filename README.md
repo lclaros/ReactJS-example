@@ -1,8 +1,10 @@
 # ReactJS-example
 
 ## deploy/start the application
+* git clone https://github.com/lclaros/ReactJS-example.git
 * npm install
 * npm start
+
 ## create new component
 * yo react-webpack:component my/namespaced/components/name
 
